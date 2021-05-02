@@ -7,6 +7,9 @@ GUIDA COMANDI BASE GIT
 --> AGGIUNGERE TUTTI I FILE A STAGING AREA: git add *
 --> APRIRE EDITOR PER COMMIT: git commit
 	--> cliccando 'i' posso inserire commenti e per uscire clicco esc e poi ':wq'
---> FARE LA COMMIT CON COMMENTO DA LINEA DI COMANDO: git commit -m 'commento'
+--> FARE LA COMMIT CON COMMENTO DA LINEA DI COMANDO: git commit -m "commento"
+--> CANCELLARE PROGRESSI TORNANDO A ULTIMA COMMIT: git checkout -- 'nomefile'
+
+
 
 
