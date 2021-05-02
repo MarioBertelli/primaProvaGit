@@ -13,6 +13,14 @@ GUIDA COMANDI BASE GIT
 --> CREARE UN BRANCH: git branch 'nome branch'
 --> SPOSTARSI AD UN CERTO BRANCH: git checkout 'nome branch'
 --> FARE IL MERGE DI UN BRANCH: git merge 'nome branch di cui fare il merge su quello in cui mi trovo'
-
+--> VEDERE LO STORICO DELLE COMMIT: git log
+	--> Utile per tornare indietro
+--> TORNARE AD UNA COMMIT PASSATA: git reset 'codice commit a cui voglio tornare'
+	--> il codice lo copio dal risultato di git log
+--> COLLEGARSI ALLA REPOSITORY REMOTA DI GUTHUB: git remote add origin 'link HTTPS repository'
+--> VERIFICARE A CHE REPOSITORY REMOTA SIAMO COLLEGATI: git remote -v
+--> FARE PUSH SU GITHUB DE MASTER: git push -u origin master
+--> FARE PULL FILE DA REPOSITORY REMOTA: git pull
+--> CLONARE REPOSITORY REMOTA IN UNA LOCALE: git clone 'HTTPS Directory remota'
 
 
