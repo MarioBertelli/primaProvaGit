@@ -1,3 +1,5 @@
 1
 aggiunte 
 Ho aggiunto molte cose interessanti al master e il branch periferica 3 non lo sa
+Aggiungo cose in periferica 3 che il master non sa
+
