@@ -9,7 +9,10 @@ GUIDA COMANDI BASE GIT
 	--> cliccando 'i' posso inserire commenti e per uscire clicco esc e poi ':wq'
 --> FARE LA COMMIT CON COMMENTO DA LINEA DI COMANDO: git commit -m "commento"
 --> CANCELLARE PROGRESSI TORNANDO A ULTIMA COMMIT: git checkout -- 'nomefile'
-
+--> VEDERE CHE BRANCHES CI SONO E SU QUALE SONO: git branch
+--> CREARE UN BRANCH: git branch 'nome branch'
+--> SPOSTARSI AD UN CERTO BRANCH: git checkout 'nome branch'
+--> FARE IL MERGE DI UN BRANCH: git merge 'nome branch di cui fare il merge su quello in cui mi trovo'
 
 
 
